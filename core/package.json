@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bodybuilder": "2.2.13",
-    "config": "^1.30.0",
+    "config": "^3.0.0",
     "express": "^4.14.0",
     "lean-he": "^2.0.0",
     "localforage": "^1.7.2",
