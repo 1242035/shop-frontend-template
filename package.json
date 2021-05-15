@@ -98,7 +98,7 @@
     "babel-jest": "^24.1.0",
     "babel-loader": "^8.0.5",
     "babel-plugin-dynamic-import-node": "^2.2.0",
-    "case-sensitive-paths-webpack-plugin": "^2.1.2",
+    "case-sensitive-paths-webpack-plugin": "2.4.0",
     "command-exists": "^1.2.2",
     "commander": "^2.18.0",
     "cross-env": "^3.1.4",
