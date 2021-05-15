@@ -53,7 +53,7 @@
     "apollo-link-http": "^1.5.4",
     "bodybuilder": "2.2.13",
     "config": "^1.30.0",
-    "es6-promise": "^4.2.4",
+    "es6-promise": "4.2.8",
     "express": "^4.14.0",
     "graphql": "^0.13.2",
     "graphql-tag": "^2.9.2",
