@@ -99,7 +99,7 @@
     "babel-loader": "^8.0.5",
     "babel-plugin-dynamic-import-node": "^2.2.0",
     "case-sensitive-paths-webpack-plugin": "^2.1.2",
-    "command-exists": "^1.2.2",
+    "command-exists": "1.2.9",
     "commander": "^2.18.0",
     "cross-env": "^3.1.4",
     "css-loader": "^1.0.0",
