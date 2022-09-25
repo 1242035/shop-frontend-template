@@ -84,10 +84,10 @@
     "vuex-router-sync": "^5.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.3.4",
-    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
-    "@babel/polyfill": "^7.2.5",
-    "@babel/preset-env": "^7.3.4",
+    "@babel/core": "7.19.1",
+    "@babel/plugin-syntax-dynamic-import": "7.8.3",
+    "@babel/polyfill": "7.12.1",
+    "@babel/preset-env": "7.19.1",
     "@types/jest": "^23.3.13",
     "@types/node": "^10.12.18",
     "@vue/test-utils": "^1.0.0-beta.29",
@@ -96,7 +96,7 @@
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^9.0.0",
     "babel-jest": "^24.1.0",
-    "babel-loader": "^8.0.5",
+    "babel-loader": "8.2.5",
     "babel-plugin-dynamic-import-node": "^2.2.0",
     "case-sensitive-paths-webpack-plugin": "^2.1.2",
     "command-exists": "^1.2.2",
