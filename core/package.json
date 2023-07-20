@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "bodybuilder": "2.2.13",
+    "bodybuilder": "2.5.1",
     "config": "^1.30.0",
     "express": "^4.14.0",
     "lean-he": "^2.0.0",
