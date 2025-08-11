@@ -73,7 +73,7 @@
     "vue-carousel": "^0.6.9",
     "vue-i18n": "^8.0.0",
     "vue-lazyload": "^1.2.6",
-    "vue-meta": "^1.5.3",
+    "vue-meta": "^2.0.0",
     "vue-no-ssr": "^0.2.2",
     "vue-observe-visibility": "^0.4.1",
     "vue-offline": "^1.0.8",
